@@ -22,7 +22,7 @@ All data which I used in this project will remain local and anonymized during an
 2. Analyzing the correlations between my data categories.
 3. Developing interactive visualizations for better understanding of my personal health.
 
-##Future Work
+## Future Work
 1. Inclusion of Additional Data: Incorporate additional variables such as heart rate, stress levels, and dietary habits to better understand the factors influencing step counts and sleep duration.
 
 
