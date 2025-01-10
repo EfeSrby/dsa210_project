@@ -21,3 +21,11 @@ All data which I used in this project will remain local and anonymized during an
 1. Conducting Exploratory Data Analysis to visualize trends in health metrics.
 2. Analyzing the correlations between my data categories.
 3. Developing interactive visualizations for better understanding of my personal health.
+
+##Future Work
+
+1. Inclusion of Additional Data: Incorporate additional variables such as heart rate, stress levels, and dietary habits to better understand the factors influencing step counts and sleep duration.
+
+
+## My Project PowerPoint
+https://docs.google.com/presentation/d/1qmmHFoOeJuzG4zHtMR-t_wzQTVOZaGs0/edit?usp=drive_link&ouid=116069591680109480061&rtpof=true&sd=true
